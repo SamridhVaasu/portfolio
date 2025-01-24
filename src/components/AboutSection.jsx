@@ -48,7 +48,7 @@ function AboutSection() {
           >
             <div className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-500 via-pink-500 to-amber-300 animate-spin-slow" />
             <video
-              src="src/assets/about.MP4"
+              src="./images/about.MP4"
               autoPlay
               loop
               muted

@@ -13,7 +13,7 @@ const Portfolio = () => {
       liveLink: "https://github.com/SamridhVaasu/Mechatronics",
       tech: ["CNN", "OpenCV", "TensorFlow"],
       highlight: "Featured Project",
-      imageUrl: "src/assets/images/project-2.jpeg",
+      imageUrl: "./images/project-2.jpeg",
       color: "purple"
     },
     {
@@ -23,7 +23,7 @@ const Portfolio = () => {
       liveLink: "https://github.com/SamridhVaasu/SMS-Spam-Detection-Project",
       tech: ["Python", "Scikit-learn", "EDA"],
       highlight: "Hackathon Winner",
-      imageUrl: "src/assets/images/cyberguardians.jpeg",
+      imageUrl: "./images/cyberguardians.jpeg",
       color: "pink"
     },
     {
@@ -33,7 +33,7 @@ const Portfolio = () => {
       liveLink: "https://github.com/SamridhVaasu/NexPlant",
       tech: ["Python", "LLM APIs", "Random Forest"],
       highlight: "Prototype in Development",
-      imageUrl: "src/assets/images/project-1.png",
+      imageUrl: "./images/project-1.png",
       color: "purple"
     }
   ];

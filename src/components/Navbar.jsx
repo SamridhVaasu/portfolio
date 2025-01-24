@@ -44,7 +44,7 @@ function Navbar() {
         whileTap={{ scale: 0.95 }}
       >
         <img 
-          src="src/components/iiotengineers_logo.png"
+          src="./images/iiotengineers_logo.png"
           alt="IIoT Engineers Logo"
           className="h-10 w-auto object-contain"
         />

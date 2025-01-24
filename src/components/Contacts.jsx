@@ -82,7 +82,7 @@ function Contacts() {
 
             {/* Logo Image */}
             <motion.img
-              src="iiotengineers_logo.png"
+              src="./images/iiotengineers_logo.png"
               alt="IIoT Engineers Logo"
               className="rounded-full shadow-lg object-cover w-full h-full z-10 border-4 border-purple-400"
               whileHover={{ scale: 1.1 }}
