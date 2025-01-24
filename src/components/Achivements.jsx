@@ -15,7 +15,7 @@ const AchievementCard = ({ achievement, index }) => {
   const y = useTransform(scrollYProgress, [0, 0.3], [100, 0]);
 
   const imagePaths = [
-    "./images/cyberhackathon.jpg",
+    "./images/cyberhackathon.JPG",
     "./images/sih.jpg",
     "./images/gdg-tech-lead.jpg",
   ];
