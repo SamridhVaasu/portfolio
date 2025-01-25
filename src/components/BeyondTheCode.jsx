@@ -38,7 +38,7 @@ const BeyondCode = () => {
       icon: <Users className="w-6 h-6" />,
       items: [
         {
-          title: "AI Co-lead, Google Developers CLub USAR",
+          title: "AI Co-lead, Google Developers Club USAR",
           period: "Present",
           description: "Artificial Intelegence and Machine Learning Leadership",
           achievements: [
