@@ -153,7 +153,7 @@ function AboutSection() {
           <motion.a
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
-            href="public/images/resume.pdf"
+            href="https://drive.google.com/file/d/1-L9g34oyzerwHydEai6VsIuLZuiHZR_P/view?usp=share_link"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-purple-500 via-pink-500 to-amber-400 rounded-xl overflow-hidden shadow-lg"
